@@ -1,0 +1,7 @@
+env
+db.sqlite3
+__pycache__/
+
+# This 2 Files has to download
+geoip/GeoLite2-City.mmdb
+geoip/GeoLite2-Country.mmdb
